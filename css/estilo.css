@@ -1,0 +1,84 @@
+*
+{   
+    margin: 10px;
+    text-align: center;
+    font-size: larger;
+    padding: 200px 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, ';
+
+}
+.padre
+{ 
+    background-color: rgb(240, 250, 98);
+    padding: 20px;
+    align-items: center;
+    
+    
+    
+}
+.hijo
+{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 500px;
+    border: 50px;
+}  
+.nieto
+{
+    background-color: crimson;
+    padding: 20px;
+    border-radius: 500px;
+    border: 50px;
+   
+}
+.visnieto
+{
+    background-color: rgb(76, 218, 253);
+    padding: 20px;
+    border-radius: 100px;
+    border: 50px;
+   
+}
+.yo
+{
+    background-color: rgb(255, 134, 21);
+    padding: 20px;
+    border-radius: 100px;
+    border: 50px;
+   
+}
+
+.mi
+{
+    background-color: rgb(51, 250, 44);
+    padding: 20px;
+    border-radius: 100px;
+    border: 50px;
+   
+}
+    /*#caja1:;
+   
+{
+    width: 300px;
+    height: 150px;
+    background-color: darkgray;
+    padding:  20px;
+    margin:20px;
+    border-style:solid;
+    border-color: rgb(219, 54, 54);
+    border: 10px;
+
+}
+.caja2
+{
+    padding: 20px ;
+    margin:50px;
+    width: 350px;
+    height: 150px;
+    background-color: rgb(239, 147, 252);
+    border: 10px;
+    border-style: dotted;
+    border-color: rgb(29, 124, 248);
+    border-radius: 40px ;
+    
+}
